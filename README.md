@@ -1,6 +1,14 @@
 # Today I Learned(TIL)
 
 
+## WEB
+* [웹서버_프로그램_설치방법](https://github.com/MagnaPax/TIL/blob/master/WEB/%EC%9B%B9%EC%84%9C%EB%B2%84_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95.md)
+
+
+
+
+
+
 ## Oracle 11g
 * [[01]Oracle_DB(오라클과데이터베이스)](https://github.com/MagnaPax/TIL/blob/master/DB/Oracle_Programming/%5B01%5DOracle_DB(%EC%98%A4%EB%9D%BC%ED%81%B4%EA%B3%BC%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4).md)
  
@@ -16,6 +24,8 @@
 * [[13]사용자권한](https://github.com/MagnaPax/TIL/blob/master/DB/Oracle_Programming/%5B13%5D%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B6%8C%ED%95%9C.md)
 
 * [[14]PL_SQL](https://github.com/MagnaPax/TIL/blob/master/DB/Oracle_Programming/%5B14%5DPL_SQL.md)
+
+
 
 
 
