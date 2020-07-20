@@ -6,6 +6,7 @@
 
 ## HTML
   * [HTML 태그](https://github.com/MagnaPax/TIL/blob/master/WEB/HTML/HTML%ED%83%9C%EA%B7%B8.md)
+  * [HTML 위한 VSC 설정](https://github.com/MagnaPax/TIL/blob/master/WEB/HTML/html%EC%9C%84%ED%95%9CVSCode%EC%84%B8%ED%8C%85.md)
 
 ## CSS
   * [CSS 설명](https://github.com/MagnaPax/TIL/blob/master/WEB/CSS/CSS.md)
