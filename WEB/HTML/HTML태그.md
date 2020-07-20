@@ -1,3 +1,13 @@
+
+## div id 와 div class
+
+![image](https://user-images.githubusercontent.com/34564706/87934032-46021400-cac9-11ea-835c-3390af57aa77.png)
+
+![image](https://user-images.githubusercontent.com/34564706/87934049-4b5f5e80-cac9-11ea-9e08-74f7c5059be7.png)
+
+![image](https://user-images.githubusercontent.com/34564706/87934059-4dc1b880-cac9-11ea-9fb8-e13a236d89f2.png)
+
+
 ## 영역 구분
 `<div>` 로 구분 된 영역을 아래와같이 더 세밀하게 구분
 ```html
