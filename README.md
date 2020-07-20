@@ -1,14 +1,13 @@
 # Today I Learned(TIL)
 
 
-## WEB
-* Web Servers
+## Web Servers
   * [웹서버_프로그램_설치방법](https://github.com/MagnaPax/TIL/blob/master/WEB/Web%20Servers/%EC%9B%B9%EC%84%9C%EB%B2%84_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95.md)
 
-* HTML
+## HTML
   * [HTML 태그](https://github.com/MagnaPax/TIL/blob/master/WEB/HTML/HTML%ED%83%9C%EA%B7%B8.md)
 
-* CSS
+## CSS
   * [CSS 설명](https://github.com/MagnaPax/TIL/blob/master/WEB/CSS/CSS.md)
 
 
