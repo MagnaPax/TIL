@@ -3,7 +3,6 @@
 ## JavaScript
   - [JavaScript](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/JavaScript.md)  
     - [ViewPort](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/ViewPort.md)
-    - [모바일장치인지확인하기]()
 
 
 ## Web Servers
