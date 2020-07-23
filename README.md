@@ -1,5 +1,7 @@
 # Today I Learned(TIL)
 
+## jQuery
+
 ## JavaScript
   - [JavaScript](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/JavaScript.md)  
     - [ViewPort](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/ViewPort.md)
