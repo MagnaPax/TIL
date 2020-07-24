@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 
 ## jQuery
+  - [jQuery](https://github.com/MagnaPax/TIL/blob/master/WEB/jQuery/jQuery.md)
 
 ## JavaScript
   - [JavaScript](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/JavaScript.md)  
