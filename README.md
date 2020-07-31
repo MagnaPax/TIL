@@ -1,5 +1,8 @@
 # Today I Learned(TIL)
 
+## JSP
+  - [JSP HTML WAS 개념과 역사](https://github.com/MagnaPax/TIL/blob/master/WEB/JSP/jsp.md)
+
 ## jQuery
   - [jQuery](https://github.com/MagnaPax/TIL/blob/master/WEB/jQuery/jQuery.md)
 
