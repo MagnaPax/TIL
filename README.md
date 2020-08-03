@@ -2,6 +2,7 @@
 
 ## JSP
   - [JSP HTML WAS 개념과 역사](https://github.com/MagnaPax/TIL/blob/master/WEB/JSP/jsp.md)
+  - [JPS 실습. eclipse & DB 설정](https://github.com/MagnaPax/TIL/blob/master/WEB/JSP/DB_%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EC%84%A4%EC%A0%95.md)
 
 ## jQuery
   - [jQuery](https://github.com/MagnaPax/TIL/blob/master/WEB/jQuery/jQuery.md)
