@@ -1,5 +1,19 @@
 # Today I Learned(TIL)
 
+## Big Data
+ - [Big Data Basic concept](https://github.com/MagnaPax/TIL/commit/0e003e823fcf8a8fa642fa66a727f1d8f339d27d?short_path=6f19ea0#diff-6f19ea01b212e6982bd8c3cc273b9ff6)
+ - [JupyterLab Setting](https://github.com/MagnaPax/TIL/commit/d1e6997c618c9061a29d72cd981c250d57c1a351?branch=d1e6997c618c9061a29d72cd981c250d57c1a351&diff=unified&short_path=dd4c9aa#diff-dd4c9aaeae0e38f67217b0785494b471)
+
+## Version Control
+ - [Git]()
+
+## Spring
+ - [Spring](https://github.com/MagnaPax/TIL/commit/27b86b491f9071b199d00b11df32682540811df3?short_path=f3c729c#diff-f3c729cd72c7d9b4f8551d8c42f5b48e)
+
+## Computer Science
+ - [Algorithm](https://github.com/MagnaPax/TIL/commit/1aa4a67c74cb450d0822d24382dce1f3a1dec874?short_path=994f8e0#diff-994f8e0f3e88eead8d28bd97ed4b2ffd)
+ - [Data Structure]()
+
 ## JSP
   - [JSP HTML WAS 개념과 역사](https://github.com/MagnaPax/TIL/blob/master/WEB/JSP/jsp.md)
   - [JPS 실습. eclipse & DB 설정](https://github.com/MagnaPax/TIL/blob/master/WEB/JSP/DB_%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EC%84%A4%EC%A0%95.md)
