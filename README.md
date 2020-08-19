@@ -1,11 +1,19 @@
 # Today I Learned(TIL)
 
 ## Big Data
- - [Big Data Basic concept](https://github.com/MagnaPax/TIL/commit/0e003e823fcf8a8fa642fa66a727f1d8f339d27d?short_path=6f19ea0#diff-6f19ea01b212e6982bd8c3cc273b9ff6)
- - [JupyterLab Setting](https://github.com/MagnaPax/TIL/commit/d1e6997c618c9061a29d72cd981c250d57c1a351?branch=d1e6997c618c9061a29d72cd981c250d57c1a351&diff=unified&short_path=dd4c9aa#diff-dd4c9aaeae0e38f67217b0785494b471)
+ - [NLP]()
+ - [Stock Analysis]()
+ - [Connecting to Oracle Database in Python](https://github.com/MagnaPax/TIL/blob/master/BigData/Connecting%20to%20Oracle%20Database%20in%20Python.md)
+ - [Web Scraping](https://github.com/MagnaPax/TIL/blob/master/BigData/Web_Scraping.md)
+ - [Graph Plotting in Python]()
+ - [Statistics with Python]()
+ - [Pandas Basics]()
+ - [NumPy Basics]()
+ - [JupyterLab Setting](https://github.com/MagnaPax/TIL/blob/master/BigData/JupyterLab.md)
+ - [Big Data Basic concept](https://github.com/MagnaPax/TIL/blob/master/BigData/BigData.md)
 
 ## Version Control
- - [Git]()
+ - [Git](https://github.com/MagnaPax/TIL/blob/master/GIT/git.md)
 
 ## Spring
  - [Spring](https://github.com/MagnaPax/TIL/commit/27b86b491f9071b199d00b11df32682540811df3?short_path=f3c729c#diff-f3c729cd72c7d9b4f8551d8c42f5b48e)
