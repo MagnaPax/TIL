@@ -12,6 +12,10 @@
  - [JupyterLab Setting](https://github.com/MagnaPax/TIL/blob/master/BigData/JupyterLab.md)
  - [Big Data Basic concept](https://github.com/MagnaPax/TIL/blob/master/BigData/BigData.md)
 
+## Python
+ - [Python Basic](https://github.com/MagnaPax/TIL/blob/master/Python/Python_Basic.md)
+ - [Python import system](https://github.com/MagnaPax/TIL/blob/master/Python/python_import.md)
+
 ## Version Control
  - [Git](https://github.com/MagnaPax/TIL/blob/master/GIT/git.md)
 
