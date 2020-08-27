@@ -1,8 +1,13 @@
 # Today I Learned(TIL)
 
 ## Big Data
- - [NLP]()
- - [Stock Analysis]()
+ - NLP
+    - [NLP Advanced](https://github.com/MagnaPax/TIL/blob/master/BigData/koMovAna.md)
+    - [NLP Basic](https://github.com/MagnaPax/TIL/blob/master/BigData/MovAna.md)
+    - [Scraping Data](https://github.com/MagnaPax/TIL/blob/master/BigData/movrev.md)
+ - Stock Analysis
+    - [Analyze the Stock](https://github.com/MagnaPax/TIL/blob/master/BigData/stockAna.md)
+    - [Scraping Stock Data](https://github.com/MagnaPax/TIL/blob/master/BigData/stockBasic.md)
  - [Connecting to Oracle Database in Python](https://github.com/MagnaPax/TIL/blob/master/BigData/Connecting%20to%20Oracle%20Database%20in%20Python.md)
  - [Web Scraping](https://github.com/MagnaPax/TIL/blob/master/BigData/Web_Scraping.md)
  - [Graph Plotting in Python]()
