@@ -3,6 +3,7 @@
 ## Big Data
  - NLP
     - [NLP Advanced](https://github.com/MagnaPax/TIL/blob/master/BigData/koMovAna.md)
+    - [Install KoNLPy package](https://github.com/MagnaPax/TIL/blob/master/BigData/KoNLPy.md)
     - [NLP Basic](https://github.com/MagnaPax/TIL/blob/master/BigData/MovAna.md)
     - [Scraping Data](https://github.com/MagnaPax/TIL/blob/master/BigData/movrev.md)
  - Stock Analysis
