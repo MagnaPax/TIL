@@ -2,7 +2,7 @@
 
 ## Django
  - [기본개념](https://github.com/MagnaPax/TIL/blob/master/Django/BasicConceptOfDjango.md)
- - [Web App1]()
+ - [Web App1](https://github.com/MagnaPax/TIL/blob/master/Django/Django_WebApp01.md)
  - [Web App2](https://github.com/MagnaPax/TIL/blob/master/Django/Django_WebApp02.md)
 
 ## Big Data
