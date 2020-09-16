@@ -1,5 +1,8 @@
 # Today I Learned(TIL)
 
+## Django
+ - [기본개념](https://github.com/MagnaPax/TIL/blob/master/Django/BasicConceptOfDjango.md)
+
 ## Big Data
  - NLP
     - [NLP Advanced](https://github.com/MagnaPax/TIL/blob/master/BigData/koMovAna.md)
