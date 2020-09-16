@@ -1,4 +1,7 @@
 
+![Django_BasicConcept](https://user-images.githubusercontent.com/34564706/93314587-efa11f80-f844-11ea-86ea-b1f2008255d6.jpg)
+
+
 
 웹 브라우저에서 어떤 이벤트가 발생한다고 하자.
 
