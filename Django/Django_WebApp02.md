@@ -160,6 +160,8 @@ urlpatterns = [
 ```py
 <body>
 <form method="post" action="save_survey" > <!--투표 버튼을 누르면 post방식으로 views.py 에 있는 save_survey 로 이동-->
+    <!-- 변조 방지 위해. 소스 보기로 하면 아래같은 암호같은 것으로 바뀌어 있음 -->
+    <!-- <input type="hidden" name="csrfmiddlewaretoken" value="vSSzB7XOFgK3eeLk9zzv2vKrlgRWDhDy3MbbBV27QS0WQQvtiUXhkdhS6zfhnJxe"> -->
     {% csrf_token %}
     <p>{{survey.question}}</p>
     <p><input type="radio" name="num" value="1">{{survey.ans1}}</p>
