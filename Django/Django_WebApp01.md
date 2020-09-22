@@ -16,6 +16,12 @@ pip install django
 django-admin startproject config .
 ```
 
+### 아나콘다 환경설정
+파이참에서 새로운 프로젝트를 만든 후 , 아나콘다로 환경설정을 설정한다.
+
+![스크린샷, 2020-09-22 15-18-18](https://user-images.githubusercontent.com/34564706/93849437-15b43d00-fce7-11ea-93b9-4e1f4d8bd6ab.png)
+
+
 ### SQLite3 
 - Django의 db는 기본적으로 SQLIte3
 https://github.com/pawelsalawa/sqlitestudio/releases
