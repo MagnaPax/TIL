@@ -1,4 +1,11 @@
 
+# 파일 위치
+
+https://github.com/MagnaPax/Jupyter-notebook-on-Ubuntu
+
+<br><br>
+
+
 # Pandas
 
 ![20200924_102608](https://user-images.githubusercontent.com/34564706/94090678-2ed8fd00-fe51-11ea-827b-cb25d6a70bf8.jpg)

@@ -1,4 +1,12 @@
 
+# 파일 위치
+
+https://github.com/MagnaPax/Jupyter-notebook-on-Ubuntu
+
+<br><br>
+
+
+
 # Pandas
 - Series, DataFrame 등의 자료 구조를 활용해서 데이터 분석용 빅데이터를 더욱 빠른 속도로 처리함(CSV파일 읽기, 엑셀 파일보다 빠른 처리, RPA 의 근간이 되는 모듈)
 
