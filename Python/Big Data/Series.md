@@ -8,16 +8,28 @@ https://github.com/MagnaPax/Jupyter-notebook-on-Ubuntu
 
 # Pandas
 
+- 데이터를 분석할 때 가장 많이 쓰이는 라이브러리다.
+- 행과 열을 쉽게 처리할 수 있는 함수를 제공하는 도구이다.
+
+    ※ 각 열은 단일 데이터 형식만 저장
+
+- numpy보다 유연하게 수치 연산 가능하다.
+
 ![20200924_102608](https://user-images.githubusercontent.com/34564706/94090678-2ed8fd00-fe51-11ea-827b-cb25d6a70bf8.jpg)
 
 
 ## Series
-> DataFrame의 한 컬럼 데이터 세트
 
-> Series 역시 DataFrame의 인덱스와 동일한 인덱스를 가진다
-
-> 즉 Series는 컬럼이 하나인 데이터 구조체이고 DataFrame은 컬럼이 여러개인 데이터 구조체이다
-
+- index와 values로 이루어진 1차원 배열이다.
+- 모든 유형의 데이터를 보유할 수 있다.
+- 인덱스를 지정해 줄 수 있다.
+- 인덱스 길이는 데이터의 길이와 같아야 한다.
+- 명시적 인덱스와 암묵적 인덱스를 가진다.
+    - loc : 인덱스값을 기반으로 행 데이터를 읽는다.
+    - iloc : 정수 인덱스을 기반으로 행 데이터를 읽는다.
+- DataFrame의 한 컬럼 데이터 세트
+- Series 역시 DataFrame의 인덱스와 동일한 인덱스를 가진다
+- 즉 Series는 컬럼이 하나인 데이터 구조체이고 DataFrame은 컬럼이 여러개인 데이터 구조체이다
 
 ```python
 import pandas as pd

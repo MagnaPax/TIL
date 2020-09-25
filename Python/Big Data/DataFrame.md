@@ -6,9 +6,23 @@ https://github.com/MagnaPax/Jupyter-notebook-on-Ubuntu
 <br><br>
 
 
-
 # Pandas
+
+- 데이터를 분석할 때 가장 많이 쓰이는 라이브러리다.
+- 행과 열을 쉽게 처리할 수 있는 함수를 제공하는 도구이다.
+
+    ※ 각 열은 단일 데이터 형식만 저장
+
+- numpy보다 유연하게 수치 연산 가능하다.
+
 - Series, DataFrame 등의 자료 구조를 활용해서 데이터 분석용 빅데이터를 더욱 빠른 속도로 처리함(CSV파일 읽기, 엑셀 파일보다 빠른 처리, RPA 의 근간이 되는 모듈)
+
+
+## DataFrame
+
+- 2차원 배열에 행과 열에 인덱스를 붙인 것이다.
+- 가장 기본적인 데이터 구조이다.
+- Office 의 Excel 생각하면 쉽다
 
 
 ```python
