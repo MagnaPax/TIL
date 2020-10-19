@@ -1,5 +1,10 @@
 # Today I Learned(TIL)
 
+## RPA
+ - ### UiPath
+   - [Basic](https://github.com/MagnaPax/TIL/blob/master/RPA/UiPath.md)
+   - [Window Credential](https://github.com/MagnaPax/TIL/blob/master/RPA/WindowCredential.md)
+
 ## Python
  - ### Big Data
     - #### NumPy
