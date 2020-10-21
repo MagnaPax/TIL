@@ -59,6 +59,9 @@ For 문 : For each(배열), For each row(데이터 테이블)
 - 엑셀 데이터를 읽을 때: Read Range
 - 엑셀 데이터를 쓸 때: Write Range
 - 엑셀에 데이터를 읽거나 쓸 때는 반드시 Excel Application Scope 사용
+- Filter Data Table 액티비티 : 조건문 or 칼럼 재배치할 때 사용
+  - 출력 열(Output Columns) 에서 데이터테이블이름.Colums(인덱스번호).ColumnName
+- 
 
 
 ### 브라우저 액티비티
@@ -291,3 +294,9 @@ Mail.Subject: 제목
 1) 좌표
 2) 이미지
   - Image Recording(성능이 떨어진다, 예외가 발생한다)
+
+
+### 디렉토리 관련 액티비티
+- Create File
+- Create Folder
+- Path Exists
