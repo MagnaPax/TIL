@@ -4,6 +4,7 @@
  - ### UiPath
    - [Basic](https://github.com/MagnaPax/TIL/blob/master/RPA/UiPath.md)
    - [Window Credential](https://github.com/MagnaPax/TIL/blob/master/RPA/WindowCredential.md)
+   - [Oracle DB Connection](https://github.com/MagnaPax/TIL/blob/master/RPA/DB%EC%97%B0%EA%B2%B0.md)
 
 ## Python
  - ### Big Data
