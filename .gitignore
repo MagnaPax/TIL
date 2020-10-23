@@ -1,7 +1,7 @@
 gitignore테스트.이파일을무시하기.txt
 
 
-### Python ###
+### UiPath ###
 .settings/
 .local/
 .objects/
