@@ -49,6 +49,7 @@
  - [Git](https://github.com/MagnaPax/TIL/blob/master/GIT/git.md)
 
 ## Spring
+ - [Spring Basic](https://github.com/MagnaPax/TIL/blob/master/WEB/Spring_Framework/Spring%20Basic.md)
  - [Spring](https://github.com/MagnaPax/TIL/commit/27b86b491f9071b199d00b11df32682540811df3?short_path=f3c729c#diff-f3c729cd72c7d9b4f8551d8c42f5b48e)
 
 ## Computer Science
