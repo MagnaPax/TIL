@@ -51,6 +51,8 @@
 ## Spring
  - [Spring Basic](https://github.com/MagnaPax/TIL/blob/master/WEB/Spring_Framework/Spring%20Basic.md)
  - [Spring](https://github.com/MagnaPax/TIL/commit/27b86b491f9071b199d00b11df32682540811df3?short_path=f3c729c#diff-f3c729cd72c7d9b4f8551d8c42f5b48e)
+ - [Maven 프로젝트 이해 및 활용](https://github.com/MagnaPax/TIL/blob/master/WEB/Spring_Framework/Maven%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%ED%95%B4%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9.md)
+ - [web_servlet_context 설명](https://github.com/MagnaPax/TIL/blob/master/WEB/Spring_Framework/web_servlet_context%20%EC%84%A4%EB%AA%85.md)
 
 ## Computer Science
  - [Algorithm](https://github.com/MagnaPax/TIL/commit/1aa4a67c74cb450d0822d24382dce1f3a1dec874?short_path=994f8e0#diff-994f8e0f3e88eead8d28bd97ed4b2ffd)
