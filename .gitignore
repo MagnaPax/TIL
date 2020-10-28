@@ -1,5 +1,13 @@
 gitignore테스트.이파일을무시하기.txt
 
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
 
 ### UiPath ###
 .settings/
