@@ -1,5 +1,8 @@
 # Today I Learned(TIL)
 
+## WEB 
+ - [WEB Technologies](https://github.com/MagnaPax/TIL/blob/master/WEB/WEB_Technologies.md)
+
 ## RPA
  - ### UiPath
    - [Basic](https://github.com/MagnaPax/TIL/blob/master/RPA/UiPath.md)
