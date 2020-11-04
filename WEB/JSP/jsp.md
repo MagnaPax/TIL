@@ -119,12 +119,3 @@ int a=3;
 ![KakaoTalk_20200731_185114361](https://user-images.githubusercontent.com/34564706/89023755-0ce66100-d35f-11ea-8a06-64a6d52d3ac4.jpg)
 
 
-
-
-
-##
-###
-
-<img src="" width=200></img>
-<img src="" width=200></img>
-
