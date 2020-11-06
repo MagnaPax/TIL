@@ -32,21 +32,21 @@ git config --global user.name "아이디"
 ```shell
 git init
 
-git pull origin master # 깃헙에 저장소 만들때 .gitignore과 README.md 만들었으니까 로컬에 받아오기 위해
+git pull origin main # 깃헙에 저장소 만들때 .gitignore과 README.md 만들었으니까 로컬에 받아오기 위해
 
-git pull origin master --allow-unrelated-histories # Github에 있는 내용을 로컬 repository에 반영할 수 있게 하고, 초기 로컬 repository의 파일을 Github에 업로드하기 위해
+git pull origin main --allow-unrelated-histories # Github에 있는 내용을 로컬 repository에 반영할 수 있게 하고, 초기 로컬 repository의 파일을 Github에 업로드하기 위해
 
 git config --global user.email "이메일 주소"
 
 git config --global user.name "아이디"
 
-git remote add origin 원격저장소주소
+git remote add main 원격저장소주소
 
 git add --all
 
 git commit -m "initial commit"
 
-git push origin master
+git push origin main
 ```
 
 
