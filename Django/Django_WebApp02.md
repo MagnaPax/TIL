@@ -1,6 +1,11 @@
 
 # 1. 가장 단순한 웹앱 만들기
 
+### 가상환경 활성화 (자동 완성이 된다)
+```
+$ source 가상환경이름/Scripts/activate
+```
+
 ### 웹 앱 생성
 ```console
 python manage.py startapp myapp
