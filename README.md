@@ -21,6 +21,7 @@
  - ### Web Server     
     - #### Django
       - [기본개념](https://github.com/MagnaPax/TIL/blob/master/Django/BasicConceptOfDjango.md)
+      - [기본로컬서버생성](https://github.com/MagnaPax/TIL/blob/master/Django/%EB%A1%9C%EC%BB%AC%EC%84%9C%EB%B2%84%EC%83%9D%EC%84%B1.md)
       - [Web App1](https://github.com/MagnaPax/TIL/blob/master/Django/Django_WebApp01.md)
       - [Web App2](https://github.com/MagnaPax/TIL/blob/master/Django/Django_WebApp02.md)
       - [Web App4](https://github.com/MagnaPax/TIL/blob/master/Django/Django_WebApp04.md)
