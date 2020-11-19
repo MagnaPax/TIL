@@ -6,6 +6,10 @@
 ```
 pip install django
 ```
+### 가상환경 활성화 (자동 완성이 된다)
+```
+$ source 가상환경이름/Scripts/activate
+```
 
 ### 환경설정
 - config 디렉토리 생성하는 명령어
