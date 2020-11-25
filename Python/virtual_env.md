@@ -38,3 +38,15 @@ $ source 가상환경이름/Scripts/activate
 > 작업 폴더는 가상환경 폴더 밖에 위치시켜야 됨
 
 ![image](https://user-images.githubusercontent.com/34564706/100181022-b9ef7580-2f1c-11eb-8cd3-40b896da141d.png)
+
+
+## Interpreter 선택
+> 컴퓨터에 설치된 인터프리터가 아닌 가상환경에 설치된 인터프리터를 선택해야 팀원들과 공유 시 에러나지 않는다
+
+```
+Ctrl + Shipt + p
+```
+![image](https://user-images.githubusercontent.com/34564706/100181789-6bdb7180-2f1e-11eb-877f-4008c069616e.png)
+
+![virtualenv3](https://user-images.githubusercontent.com/34564706/100181980-dab8ca80-2f1e-11eb-9160-85a7a419e276.jpg)
+
