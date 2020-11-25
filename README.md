@@ -46,6 +46,8 @@
  - [Big Data Basic concept](https://github.com/MagnaPax/TIL/blob/master/BigData/BigData.md)
 
 ## Python
+ - [가상환경](https://github.com/MagnaPax/TIL/blob/master/Python/virtual_env.md)
+ - [Tesseract for OCR](https://github.com/MagnaPax/TIL/blob/master/Python/tesseract.md)
  - [Python Basic](https://github.com/MagnaPax/TIL/blob/master/Python/Python_Basic.md)
  - [Python import system](https://github.com/MagnaPax/TIL/blob/master/Python/python_import.md)
 
