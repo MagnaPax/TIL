@@ -53,6 +53,7 @@
 
 ## Version Control
  - [Git](https://github.com/MagnaPax/TIL/blob/master/GIT/git.md)
+ - [Git시작 & 책정리](https://github.com/MagnaPax/TIL/blob/master/GIT/git2.md)
 
 ## Spring
  - [Spring Basic](https://github.com/MagnaPax/TIL/blob/master/WEB/Spring_Framework/Spring%20Basic.md)
