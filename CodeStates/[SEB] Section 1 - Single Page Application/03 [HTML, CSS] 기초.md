@@ -4,8 +4,6 @@
 
 ![](https://user-images.githubusercontent.com/34564706/122494214-e9361300-d023-11eb-9d79-6f2fba2be32b.png)
 
-![HTML요소](./img/HTML요소.png)
-
 ## self-closing tag
 
 ```html
