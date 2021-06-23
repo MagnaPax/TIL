@@ -1,0 +1,5 @@
+![ex_screenshot](../img/Ubuntu 패키지 매니저 - apt.png)
+![ex_screenshot](../img/macOS 패키지 매니저 - brew.png)
+![ex_screenshot](../img/nvm & node.js.png)
+![ex_screenshot](../img/nvm 간단 사용법.png)
+![ex_screenshot](../img/npm & package.json.png)
