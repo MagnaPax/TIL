@@ -1,5 +1,14 @@
 # Today I Learned(TIL)
 
+## 코드스테이츠
+
+### Section 1 - Single Page Application
+
+- [02 [JS Node] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/02_(JS-Node)_%EA%B8%B0%EC%B4%88.md>)
+- [03 [HTML, CSS] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/03_(HTML-CSS)_%EA%B8%B0%EC%B4%88.md>)
+- [04 [Linux] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/04_(Linux)_%EA%B8%B0%EC%B4%88.md>)
+- [Linux, nvm, npm 설치&사용](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/Linux_nvm_npm%EC%84%A4%EC%B9%98%EC%99%80%EC%82%AC%EC%9A%A9.md>)
+
 ## JavaScript
 
 - [JS/Node 기초](https://github.com/MagnaPax/TIL/blob/master/WEB/JavaScript/01%5BJS.Node%5D%EA%B8%B0%EC%B4%88.md)
