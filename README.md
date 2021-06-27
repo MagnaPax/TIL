@@ -7,7 +7,8 @@
 - [02 [JS Node] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/02_(JS-Node)_%EA%B8%B0%EC%B4%88.md>)
 - [03 [HTML, CSS] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/03_(HTML-CSS)_%EA%B8%B0%EC%B4%88.md>)
 - [04 [Linux] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/04_(Linux)_%EA%B8%B0%EC%B4%88.md>)
-- [Linux, nvm, npm 설치&사용](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/Linux_nvm_npm%EC%84%A4%EC%B9%98%EC%99%80%EC%82%AC%EC%9A%A9.md>)
+  - [Linux, nvm, npm 설치&사용](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/Linux_nvm_npm%EC%84%A4%EC%B9%98%EC%99%80%EC%82%AC%EC%9A%A9.md>)
+- [05 [Git] 기초](<https://github.com/MagnaPax/TIL/blob/master/CodeStates/(SEB)_Section1-Single_Page_Application/05(git)_%EA%B8%B0%EC%B4%88.md>)
 
 ## JavaScript
 
