@@ -95,3 +95,5 @@
 ### padding과 margin차이
 
 ![padding과 margin 차이](https://user-images.githubusercontent.com/34564706/123836289-7e9aa680-d944-11eb-8579-85f465210ec8.png)
+
+![img_css_boxmodel](https://user-images.githubusercontent.com/34564706/123839688-60cf4080-d948-11eb-95c8-1b819b0af410.png)
